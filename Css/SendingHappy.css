@@ -230,6 +230,7 @@ li {
     margin-top: 18px;
     line-height: 26px;
     font-size: 16px;
+    font-family: poppins;
 }
 
 .section .section__text h1 {
@@ -298,7 +299,7 @@ li {
 .p__two {
     font-size: 16px;
     margin-bottom: 34px;
-
+    font-family: poppins;
 }
 
 .section2__images {
